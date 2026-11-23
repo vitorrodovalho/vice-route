@@ -51,6 +51,8 @@ Segundo o guia do Vice Atlas e o checklist do PowerPyx (status `referencia`, a c
 | Estilos descobertos | 79 (13 Jason, 15 Lucia, 17 tatuagens, 34 relógios) | 70 | `estilos` | |
 | Playlists únicas | 2 | 2 | `playlists` | Liberadas escaneando cartazes com WAiNK |
 
+**Atividade de sinuca:** vencer 5 dos 7 adversários distintos conta para os 100%. O contador fica em **Progress > Activities > Sports > Pool**. Se o Delights Cabaret estiver temporariamente fechado, outro adversário ainda não vencido pode contar para a mesma meta. Referência: [guia de adversários de sinuca do Vice Keys](https://getvicekeys.com/guides/gta-6-pool-opponent-locations).
+
 Outros fatos levantados:
 - O jogo conta colecionáveis em **Progresso > Coleções**, e um tipo costuma aparecer só depois de achar o primeiro.
 - O **checklist de 100%** abre depois da história, conta o que foi achado antes e pede só parte da maioria dos conjuntos.
